@@ -1,6 +1,6 @@
 # RNN and LSTM from Scratch (NumPy)
 
-Practical work (TP) – Master IAA, Polydisciplinary Faculty of Ouarzazate.
+Practical work (TP) – Master IAA
 
 Implementation of the forward and backward passes (BPTT) of a basic RNN and an LSTM in NumPy.
 
@@ -20,4 +20,4 @@ Run all cells from the top (keep the .py files in the same folder as the noteboo
 - The 4 backward routines match the reference gradients (8–12 significant digits).
 
 ## Author
-[Your name]
+EL GHIDOUNI IKRAM
